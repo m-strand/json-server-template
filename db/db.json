@@ -1,52 +1,281 @@
 {
-  "toys": [
+  "types": [
+    {
+      "id": "1",
+      "image": "",
+      "name": "Artic"
+    },
+    {
+      "id": "2",
+      "image": "",
+      "name": "Treehouses"
+    },
+    {
+      "id": "3",
+      "image": "",
+      "name": "Windmills"
+    },
+    {
+      "id": "4",
+      "image": "",
+      "name": "Iconic Cities"
+    },
+    {
+      "id": "5",
+      "image": "",
+      "name": "Castles"
+    }
+  ],
+  
+  "artic": [
     {
       "id": 1,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
+      "location": "Hadsel, Norway",
+      "image": "https://a0.muscache.com/im/pictures/6726aebd-f827-4ca1-8964-14335a73065f.jpg?im_w=720",
+      "distance": "3619",
+      "dates": "Aug 23-28",
+      "price": "195",
+      "rating": "4.96"
     },
     {
       "id": 2,
-      "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
+      "location": "Flakstad, Norway",
+      "image": "https://a0.muscache.com/im/pictures/064a1094-d11d-4c87-a3ff-5ecbab4961d5.jpg?im_w=720",
+      "distance": "3577",
+      "dates": "Jun 29-Jul 4",
+      "price": "205",
+      "rating": "4.67"
     },
     {
       "id": 3,
-      "name": "Mr. Potato Head",
-      "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "location": "Muonio, Finland",
+      "image": "https://a0.muscache.com/im/pictures/2fa17902-129c-4a67-8af3-52218fb2d17f.jpg?im_w=720",
+      "distance": "3849",
+      "dates": "Jun 1-6",
+      "price": "190",
+      "rating": "5.0"
     },
     {
       "id": 4,
-      "name": "Slinky Dog",
-      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "location": "Sisimiut, Greenland",
+      "image": "https://a0.muscache.com/im/pictures/dee4b2c0-dabb-4238-ae9d-68a08239d69f.jpg?im_w=720",
+      "distance": "1972",
+      "dates": "Oct 1-6",
+      "price": "92",
+      "rating": "New"
     },
     {
       "id": 5,
-      "name": "Rex",
-      "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
-    },
+      "location": "Kiruna, Sweden",
+      "image": "https://a0.muscache.com/im/pictures/9880202a-0ecc-4cb3-9602-c02a73a25352.jpg?im_w=720",
+      "distance": "3749",
+      "dates": "Oct 4-9",
+      "price": "209",
+      "rating": "4.9"
+    }
+  ],
+
+  "treehouses": [
     {
       "id": 6,
-      "name": "Bo Peep",
-      "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
-    },
+      "location": "Willington, Connecticut",
+      "image": "https://a0.muscache.com/im/pictures/e7e72c42-3268-4e06-992b-bb75b6aa0a00.jpg?im_w=720",
+      "distance": "123 miles away",
+      "dates": "Sep 18-23",
+      "price": "234",
+      "rating": "4.89"
+    }, 
+
     {
       "id": 7,
-      "name": "Hamm!!!!",
-      "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
-    },
+      "location": "Hardwick, Vermont",
+      "image": "https://a0.muscache.com/im/pictures/38794512-d935-4268-837e-246d470bde04.jpg?im_w=720",
+      "distance": "274",
+      "dates": "Nov 6-11",
+      "price": "217",
+      "rating": "4.98"
+    }, 
+    
     {
       "id": 8,
-      "name": "Little Green Men",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "location": "Concord, North Carolina",
+      "image": "https://a0.muscache.com/im/pictures/09d4c103-ed36-4027-ae6a-358549c84e6e.jpg?im_w=720",
+      "distance": "509",
+      "dates": "Jun 19-24",
+      "price": "183",
+      "rating": "4.96"
+    }, 
+
+    {
+      "id": 9,
+      "location": "Saint Johnsbury, Vermont",
+      "image": "https://a0.muscache.com/im/pictures/51beb74c-2d23-4da2-af5b-14dd8bb7b98e.jpg?im_w=720",
+      "distance": "279",
+      "dates": "Oct 31-Nov 5",
+      "price": "289",
+      "rating": "4.94"
+    }, 
+
+    {
+      "id": 10,
+      "location": "Wareham, Massachusetts",
+      "image": "https://a0.muscache.com/im/pictures/32b41b39-846d-4078-a655-4173fa9b72a0.jpg?im_w=720",
+      "distance": "185",
+      "dates": "Jun 1-6",
+      "price": "190",
+      "rating": "4.96"
+    }
+  ],
+
+  "windmills": [
+    {
+      "id": 11,
+      "location": "Ponta Delgada, Portugal",
+      "image": "https://a0.muscache.com/im/pictures/miso/Hosting-5264493/original/10d2c21f-84c2-46c5-b20b-b51d1c2c971a.jpeg?im_w=720",
+      "distance": "2554",
+      "dates": "Sep 26-Oct 1",
+      "price": "296",
+      "rating": "4.96"
+    }, 
+
+    {
+      "id": 12,
+      "location": "Tietjerk, Netherlands",
+      "image": "https://a0.muscache.com/im/pictures/miso/Hosting-43420830/original/30580f74-467b-43a3-8b25-1c678b284bd5.jpeg?im_w=720",
+      "distance": "3661",
+      "dates": "Jun 28-Jul 3",
+      "price": "197",
+      "rating": "4.8"
+    }, 
+    
+    {
+      "id": 13,
+      "location": "Korithi, Greece",
+      "image": "https://a0.muscache.com/im/pictures/miso/Hosting-46651505/original/0048d369-9437-48e3-9883-858f74f596ba.jpeg?im_w=720",
+      "distance": "4795",
+      "dates": "Jun 30-Jul 6",
+      "price": "151",
+      "rating": "New"
+    }, 
+
+    {
+      "id": 14,
+      "location": "Osterbruch, Germany",
+      "image": "https://a0.muscache.com/im/pictures/1141548d-0059-4094-b4ac-aa8fdd23e31f.jpg?im_w=720",
+      "distance": "3764",
+      "dates": "Jul 2-9",
+      "price": "58",
+      "rating": "4.73"
+    }, 
+
+    {
+      "id": 15,
+      "location": "Oombergen, Belgium",
+      "image": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-26134732/original/80610493-eeb5-4647-b4f3-85f402e6f15d.jpeg?im_w=720",
+      "distance": "3637",
+      "dates": "Sep 9-16",
+      "price": "78",
+      "rating": "4.5"
+    }
+  ],
+
+  "iconic-cities": [
+    {
+      "id": 16,
+      "location": "Marrakesh, Morocco",
+      "image": "https://a0.muscache.com/im/pictures/11424264/9b74726b_original.jpg?im_w=720",
+      "distance": "3648",
+      "dates": "Oct 9-14",
+      "price": "84",
+      "rating": "4.88"
+    }, 
+
+    {
+      "id": 17,
+      "location": "Cape Town, South Africa",
+      "image": "https://a0.muscache.com/im/pictures/d0ca15e5-87bc-4912-bbc0-6c564e42afc7.jpg?im_w=720",
+      "distance": "7807",
+      "dates": "Jun 26-Jul 2",
+      "price": "90",
+      "rating": "4.85"
+    }, 
+    
+    {
+      "id": 18,
+      "location": "Edinburgh, UK",
+      "image": "https://a0.muscache.com/im/pictures/8fa351eb-1a60-47ad-99a8-d06e1a1dbb3f.jpg?im_w=720",
+      "distance": "219",
+      "dates": "Oct 30-Nov 4",
+      "price": "219",
+      "rating": "4.99"
+    }, 
+
+    {
+      "id": 19,
+      "location": "Florence, Italy",
+      "image": "https://a0.muscache.com/im/pictures/51430034/44e710d3_original.jpg?im_w=720",
+      "distance": "84",
+      "dates": "Oct 25-30",
+      "price": "84",
+      "rating": "4.9"
+    }, 
+
+    {
+      "id": 20,
+      "location": "Havana, Cuba",
+      "image": "https://a0.muscache.com/im/pictures/acaabee6-2085-4d2c-a3d5-e279d5dddaa9.jpg?im_w=720",
+      "distance": "1307",
+      "dates": "Jul 13-18",
+      "price": "37",
+      "rating": "4.84"
+    }
+  ], 
+
+  "castles": [
+    {
+      "id": 21,
+      "location": "Vale of Avoca, Ireland",
+      "image": "https://a0.muscache.com/im/pictures/392cf83d-d3e2-4296-8609-e9e1af91eba1.jpg?im_w=720",
+      "distance": "3187",
+      "dates": "Jul 10-15",
+      "price": "169",
+      "rating": "4.75"
+    },
+    {
+      "id": 22,
+      "location": "El Barraco, Spain",
+      "image": "https://a0.muscache.com/im/pictures/8d4ac3e0-b401-4017-9ef3-35146586e26e.jpg?im_w=720",
+      "distance": "3542",
+      "dates": "Aug 13-18",
+      "price": "844",
+      "rating": "New"
+    },
+    {
+      "id": 23,
+      "location": "Ballintuim, UK",
+      "image": "https://a0.muscache.com/im/pictures/7907b90c-7c9b-4ffe-bc84-5e2fb2b11eea.jpg?im_w=720",
+      "distance": "3239",
+      "dates": "Jun 5-12",
+      "price": "181",
+      "rating": "4.92"
+    },
+    {
+      "id": 24,
+      "location": "Santa Marta de Portuzelo, Portugal",
+      "image": "https://a0.muscache.com/im/pictures/01b56573-15ba-4d86-bab3-5f57b0088956.jpg?im_w=720",
+      "distance": "3306",
+      "dates": "Jun 1-8",
+      "price": "650",
+      "rating": "4.93"
+    },
+    {
+      "id": 25,
+      "location": "Pouldreuzic, France",
+      "image": "https://a0.muscache.com/im/pictures/640e5278-95df-4db1-ba79-45ebb4b2ba86.jpg?im_w=720",
+      "distance": "3359",
+      "dates": "Jun 6-11",
+      "price": "792",
+      "rating": "New"
     }
   ]
-}
+  }
