@@ -55,7 +55,7 @@
       "rating": 5.0,
       "distance": 3849,
       "dates": "Jun 1-6",
-      "price": 190,
+      "price": 190
       
     },
     {
@@ -78,7 +78,6 @@
       "price": 209
       
     },
-
     {
       "id": 6,
       "image": "https://a0.muscache.com/im/pictures/25624825/6ef8e934_original.jpg?im_w=720",
@@ -88,7 +87,6 @@
       "dates": "Oct 29-Nov 4",
       "price": 215
     },
-
     {
       "id": 7,
       "image": "https://a0.muscache.com/im/pictures/d0a17be9-17f5-49b5-b4dc-f49cd3af96c0.jpg?im_w=720",
@@ -98,7 +96,6 @@
       "dates": "Sep 1-6",
       "price": 122
     },
-
     {
       "id": 8,
       "image": "https://a0.muscache.com/im/pictures/8bd2fa37-66d8-4208-a715-10242fa859bb.jpg?im_w=720",
@@ -120,7 +117,6 @@
       "price": 234,
       "rating": 4.89
     }, 
-
     {
       "id": 10,
       "location": "Hardwick, Vermont",
@@ -130,7 +126,6 @@
       "price": 217,
       "rating": 4.98
     }, 
-    
     {
       "id": 11,
       "location": "Concord, North Carolina",
@@ -140,7 +135,6 @@
       "price": 183,
       "rating": 4.96
     }, 
-
     {
       "id": 12,
       "location": "Saint Johnsbury, Vermont",
@@ -150,7 +144,6 @@
       "price": 289,
       "rating": 4.94
     }, 
-
     {
       "id": 13,
       "location": "Wareham, Massachusetts",
@@ -160,7 +153,6 @@
       "price": 190,
       "rating": 4.96
     },
-
     {
       "id": 14,
       "image": "https://a0.muscache.com/im/pictures/fe5ff38b-d386-46b2-b9f8-f36d18fcdaad.jpg?im_w=720",
@@ -170,7 +162,6 @@
       "dates": "Nov 13-18",
       "price": 222
     },
-
     {
       "id": 15,
       "image": "https://a0.muscache.com/im/pictures/88ae027a-16ea-4ede-9318-6fb067eca024.jpg?im_w=720",
@@ -180,7 +171,6 @@
       "dates": "Sep 12-17",
       "price": 278
     },
-
     {
       "id": 16,
       "image": "https://a0.muscache.com/im/pictures/43d596f4-e8e6-4e00-88e4-26763bd58cd9.jpg?im_w=720",
@@ -201,8 +191,7 @@
       "dates": "Sep 26-Oct 1",
       "price": "296",
       "rating": "4.96"
-    }, 
-
+    },
     {
       "id": 18,
       "location": "Tietjerk, Netherlands",
@@ -212,7 +201,6 @@
       "price": 197,
       "rating": 4.8
     }, 
-    
     {
       "id": 19,
       "location": "Korithi, Greece",
@@ -222,7 +210,6 @@
       "price": 151,
       "rating": "New"
     }, 
-
     {
       "id": 20,
       "location": "Osterbruch, Germany",
@@ -232,7 +219,6 @@
       "price": 58,
       "rating": 4.73
     }, 
-
     {
       "id": 21,
       "location": "Oombergen, Belgium",
@@ -242,7 +228,6 @@
       "price": 78,
       "rating": 4.5
     },
-
     {
       "id": 22,
       "image": "https://a0.muscache.com/im/pictures/01b56573-15ba-4d86-bab3-5f57b0088956.jpg?im_w=720",
@@ -261,7 +246,6 @@
       "dates": "Sep 11-16",
       "price": 62
     },
-
     {
       "id": 24,
       "image": "https://a0.muscache.com/im/pictures/c4ba3d94-e03b-434c-95a3-4ba5c97a583c.jpg?im_w=720",
@@ -271,7 +255,6 @@
       "dates": "Jun 13-18",
       "price": 69
     },
-
     {
       "id": 25,
       "image": "https://a0.muscache.com/im/pictures/bb2f1eaf-5ebd-413d-b4f4-cf3d47f51297.jpg?im_w=720",
@@ -293,7 +276,6 @@
       "price": 84,
       "rating": 4.88
     },
-
     {
       "id": 27,
       "location": "Cape Town, South Africa",
@@ -303,7 +285,6 @@
       "price": 70,
       "rating": 4.85
     }, 
-    
     {
       "id": 28,
       "location": "Edinburgh, UK",
@@ -312,8 +293,7 @@
       "dates": "Oct 30-Nov 4",
       "price": 219,
       "rating": 4.99
-    }, 
-
+    },
     {
       "id": 29,
       "location": "Florence, Italy",
@@ -323,7 +303,6 @@
       "price": "84",
       "rating": "4.9"
     }, 
-
     {
       "id": 30,
       "location": "Havana, Cuba",
@@ -333,7 +312,6 @@
       "price": 37,
       "rating": 4.84
     },
-
     {
       "id": 31,
       "image": "https://a0.muscache.com/im/pictures/monet/Select-18663734/original/46a59f35-923a-4c66-81df-e63a01aa0d20?im_w=720",
@@ -343,7 +321,6 @@
       "dates": "Jun 11-18",
       "price": 52
     },
-
     {
       "id": 32,
       "image": "https://a0.muscache.com/im/pictures/b55671fc-7ffe-4276-b3d3-e16abff8a7bf.jpg?im_w=720",
@@ -353,7 +330,6 @@
       "dates": "Sep 11-18",
       "price": 249
     },
-
     {
       "id": 33,
       "image": "https://a0.muscache.com/im/pictures/miso/Hosting-52545315/original/99a7885d-1694-4c08-9f69-3e40d8e9f541.jpeg?im_w=720",
@@ -364,8 +340,7 @@
       "price": 373
     }
   ],
-
-    
+ 
   "castles": [
     {
       "id": 34,
@@ -412,7 +387,6 @@
       "price": 792,
       "rating": "New"
     },
-
     {
       "id": 39,
       "image": "https://a0.muscache.com/im/pictures/miso/Hosting-1099769/original/680022b4-9939-4f59-83df-267a0531237c.jpeg?im_w=720",
@@ -422,7 +396,6 @@
       "dates": "Jun 12-17",
       "price": 1058
     },
-
     {
       "id": 40,
       "image": "https://a0.muscache.com/im/pictures/108511070/b0e18d45_original.jpg?im_w=720",
